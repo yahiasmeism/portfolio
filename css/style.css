@@ -139,7 +139,7 @@ textarea {
 .btn {
   background: #fff;
   color: #333;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 2px;
   display: inline-block;
   font-weight: 700;
